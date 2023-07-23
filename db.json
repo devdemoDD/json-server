@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "jjanmo07@hanmail.net",
+      "password": "$2a$10$WC9hwAjc3cNyKgtpohf1J.s38u47GLMidC.lg1CzWZh1m3pw.Ons2",
+      "nickname": "jjanmo",
+      "type": 1,
+      "id": 1
+    },
+    {
+      "email": "abcd@gmail.com",
+      "password": "$2a$10$yYsr8aPSDvJqL2Gkk/862uHCOyvptG7k/P.rOf3vVg8o9ve/dEwFy",
+      "nickname": "화이팅!!",
+      "type": 1,
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "author": "jjanmo",
+      "title": "hello world",
+      "description": "드디어 포스트 추가함\n하하하하하",
+      "date": 1690041638808,
+      "id": 1
+    },
+    {
+      "author": "화이팅!!",
+      "title": "나는 다른 사람임!!",
+      "description": "이걸 보고 있는 너는 누구냐",
+      "date": 1690042606245,
+      "id": 2
+    }
+  ]
+}
