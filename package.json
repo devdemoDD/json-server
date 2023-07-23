@@ -6,10 +6,11 @@
   "author": "jjanmo <jjanmo07@hanmail.net>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.3",
     "json-server-auth": "^2.1.0"
   },
   "scripts": {
-    "start": "PORT=1234 node server.js"
+    "start": "json-server-auth db.json"
   }
 }
