@@ -11,6 +11,6 @@
     "json-server-auth": "^2.1.0"
   },
   "scripts": {
-    "start": "json-server-auth db.json"
+    "start": "json-server-auth db.json --port 1234"
   }
 }
